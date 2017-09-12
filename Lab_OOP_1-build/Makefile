@@ -150,6 +150,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/Lab_OOP_1.dir/build.make CMakeFiles/Lab_OOP_1.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+tfigures.o: tfigures.cpp.o
+
+.PHONY : tfigures.o
+
+# target to build an object file
+tfigures.cpp.o:
+	$(MAKE) -f CMakeFiles/Lab_OOP_1.dir/build.make CMakeFiles/Lab_OOP_1.dir/tfigures.cpp.o
+.PHONY : tfigures.cpp.o
+
+tfigures.i: tfigures.cpp.i
+
+.PHONY : tfigures.i
+
+# target to preprocess a source file
+tfigures.cpp.i:
+	$(MAKE) -f CMakeFiles/Lab_OOP_1.dir/build.make CMakeFiles/Lab_OOP_1.dir/tfigures.cpp.i
+.PHONY : tfigures.cpp.i
+
+tfigures.s: tfigures.cpp.s
+
+.PHONY : tfigures.s
+
+# target to generate assembly for a file
+tfigures.cpp.s:
+	$(MAKE) -f CMakeFiles/Lab_OOP_1.dir/build.make CMakeFiles/Lab_OOP_1.dir/tfigures.cpp.s
+.PHONY : tfigures.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +189,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... tfigures.o"
+	@echo "... tfigures.i"
+	@echo "... tfigures.s"
 .PHONY : help
 
 

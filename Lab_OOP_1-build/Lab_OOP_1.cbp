@@ -87,6 +87,12 @@
 		<Unit filename="/home/d6felix/Documents/3_semester/Lab_OOP_1/main.cpp">
 			<Option target="Lab_OOP_1"/>
 		</Unit>
+		<Unit filename="/home/d6felix/Documents/3_semester/Lab_OOP_1/tfigures.cpp">
+			<Option target="Lab_OOP_1"/>
+		</Unit>
+		<Unit filename="/home/d6felix/Documents/3_semester/Lab_OOP_1/tfigures.h">
+			<Option target="Lab_OOP_1"/>
+		</Unit>
 		<Unit filename="/home/d6felix/Documents/3_semester/Lab_OOP_1/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

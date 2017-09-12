@@ -1,1 +1,1 @@
-/usr/bin/c++    -rdynamic CMakeFiles/Lab_OOP_1.dir/main.cpp.o  -o Lab_OOP_1 
+/usr/bin/c++    -rdynamic CMakeFiles/Lab_OOP_1.dir/main.cpp.o CMakeFiles/Lab_OOP_1.dir/tfigures.cpp.o  -o Lab_OOP_1 
